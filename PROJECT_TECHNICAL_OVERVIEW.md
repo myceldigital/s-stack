@@ -53,3 +53,4 @@ The project now combines a full system design with an implementation-oriented re
 
 - A valid scaffold includes coherent seed knowledge, reusable templates, and skill definitions aligned to the canonical system specification.
 - Representative files should be read back after major updates and checked with editor diagnostics.
+- The published repo target for this project is `myceldigital/s-stack`, with the `Comms-Stack/` folder contents used as the repository root.
