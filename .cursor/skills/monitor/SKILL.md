@@ -59,3 +59,7 @@ Feed durable lessons into campaign archive, media graph, or narrative memory as 
 
 - Do not produce vanity reporting.
 - Do not count weak placements as proof of strategic success.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

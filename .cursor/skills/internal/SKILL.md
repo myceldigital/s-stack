@@ -58,3 +58,7 @@ Append major employee-facing comms moments to `knowledge/internal-comms-log.md`.
 
 - Do not copy-paste external messaging as the internal note.
 - Do not over-reassure when facts are still moving.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

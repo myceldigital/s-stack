@@ -58,3 +58,7 @@ Update founder or media memory only if an angle test revealed a durable preferen
 
 - Do not recycle the thesis word-for-word as every hook.
 - Do not force novelty where clarity is the better weapon.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

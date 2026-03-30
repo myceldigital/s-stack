@@ -8,3 +8,5 @@
 - Added 16 project-local skills under `.cursor/skills/`, one for each active agent in the system, with explicit workflow, output, escalation, and memory-update contracts.
 - Added `CLAUDE.md` and `.gitignore` so the repo has explicit agent operating rules and clean git hygiene before publishing.
 - Initialized git in the project root, preserved the remote `LICENSE`, pushed the folder contents to `myceldigital/s-stack`, and updated the GitHub repo description.
+- Added companion `reference.md` files for all 16 skills so the skill layer stays concise while gaining deeper strategic guidance, decision lenses, and failure modes.
+- Rewrote `README.md` into a stronger public landing page with a clearer value proposition, command map, repo structure, usage path, and operating boundary.

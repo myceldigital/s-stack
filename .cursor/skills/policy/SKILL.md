@@ -59,3 +59,7 @@ Update policy landscape only with durable developments or tracked milestones.
 
 - Do not cosplay as legal counsel.
 - Do not flood the operator with low-value policy noise.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

@@ -62,3 +62,7 @@ After resolution, ensure the incident produces a retro and any new playbook logi
 - Do not pretend uncertainty is a bug.
 - Do not default to maximal defensiveness.
 - Do not let the incident sprawl without a decision owner.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

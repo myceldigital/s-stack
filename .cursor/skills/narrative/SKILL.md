@@ -61,3 +61,7 @@ Update `knowledge/stripe-narrative.md` only when the thesis changes durable posi
 - Do not confuse slogan-writing with strategy.
 - Do not smuggle weak proof points into the core claim.
 - Do not use abstraction when a local fact would do.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

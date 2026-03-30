@@ -59,3 +59,7 @@ This skill is one of the main compounders of the system. Be explicit about updat
 
 - Do not write bland retrospective filler.
 - Do not confuse effort with effectiveness.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

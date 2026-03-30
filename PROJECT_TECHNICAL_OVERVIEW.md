@@ -17,7 +17,7 @@ The project now combines a full system design with an implementation-oriented re
 - `docs/OPERATING_MODEL.md` — two-speed operating model and workflow doctrine
 - `knowledge/` — seeded memory files for narrative, relationships, policy, editorial voice, crisis playbooks, and archives
 - `templates/` — reusable templates for briefs, campaigns, incidents, retros, data work, and structured sidecars
-- `.cursor/skills/` — 16 project-local skill definitions matching the active agent roster
+- `.cursor/skills/` — 16 project-local skill directories, each with a concise `SKILL.md` and deeper `reference.md`
 
 ### Core System Shape
 
@@ -47,6 +47,7 @@ The project now combines a full system design with an implementation-oriented re
 
 - This project currently contains a scaffolded operating repository, not a runnable application service.
 - The repo is designed to be directly usable inside Cursor through project-local skills in `.cursor/skills/`.
+- The skill layer uses progressive disclosure: `SKILL.md` for fast discovery, `reference.md` for deeper operating guidance.
 - Sensitive outbound actions remain human gated by design.
 
 ### Verification Notes

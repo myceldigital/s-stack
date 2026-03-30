@@ -60,3 +60,7 @@ Record meaningful future conflicts in sync calendar memory.
 
 - Do not solve political conflicts with wordsmithing alone.
 - Do not bury the actual stakes.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

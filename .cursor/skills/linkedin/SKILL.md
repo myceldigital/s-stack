@@ -58,3 +58,7 @@ Strong human edits should feed back into voice memory for the relevant author.
 
 - Do not write generic founder-bro LinkedIn copy.
 - Do not confuse engagement bait with authority.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

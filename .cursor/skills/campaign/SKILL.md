@@ -60,3 +60,7 @@ Completed campaigns should later be archived with outcomes and lessons.
 
 - Do not treat events as separate from campaigns.
 - Do not create channel plans detached from narrative logic.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

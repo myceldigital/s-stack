@@ -62,3 +62,7 @@ Record methodologies, caveats, and source references so the next edition compoun
 
 - Do not launder uncertain interpretation into certainty.
 - Do not use the data franchise as a PR stunt with weak substance.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

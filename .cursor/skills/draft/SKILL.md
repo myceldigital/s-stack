@@ -57,3 +57,7 @@ After human edits, important repeated patterns should be added to `knowledge/voi
 - Do not imply the draft is ready to publish.
 - Do not hide uncertainty.
 - Do not write fake specificity.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

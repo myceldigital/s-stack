@@ -59,3 +59,7 @@ This skill is a memory writer. Be precise.
 - Do not store gossip.
 - Do not overfit one interaction into a permanent rule.
 - Do not write vague notes like "good chat".
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

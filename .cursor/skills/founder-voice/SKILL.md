@@ -60,3 +60,7 @@ Update founder pipeline status and capture what kind of stories actually convert
 
 - Do not force every customer into a case study.
 - Do not overtrain a founder into sounding corporate.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

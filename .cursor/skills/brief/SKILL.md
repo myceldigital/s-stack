@@ -63,3 +63,7 @@ Do not mutate relationship memory during pre-brief; post-interaction updates bel
 - Do not impersonate warm human outreach.
 - Do not over-prepare with trivia.
 - Do not turn a prep pack into a speech.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).

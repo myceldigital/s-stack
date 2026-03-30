@@ -63,3 +63,7 @@ Append only meaningful deltas to media, competitor, or policy memory.
 - Do not produce a generic news digest.
 - Do not quantify sentiment in a tiny market just because a dashboard could.
 - Do not present inference as confirmed reporting.
+
+## Additional resources
+
+- For deeper operating guidance, decision lenses, and failure modes, see [reference.md](reference.md).
