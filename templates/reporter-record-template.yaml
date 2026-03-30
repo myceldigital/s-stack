@@ -1,0 +1,15 @@
+id: rpt_example_001
+name: 
+outlet: 
+beat: []
+relationship_status: cold
+last_contact_at: 
+last_contact_summary: 
+preferences:
+  likes: []
+  avoids: []
+angle_fit: {}
+risk_flags: []
+linked_entities: []
+notes: []
+source_refs: []

@@ -1,0 +1,16 @@
+id: incident_example_001
+opened_at: 
+status: active
+severity: 
+classification: 
+known_facts: []
+unknowns: []
+stakeholders:
+  tier_1: []
+  tier_2: []
+  tier_3: []
+holding_variants: []
+chosen_variant: 
+decision_owner: 
+sync_conflicts: []
+postmortem_ref:
